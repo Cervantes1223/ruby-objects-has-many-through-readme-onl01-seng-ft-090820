@@ -52,6 +52,6 @@ def new_meal(waiter, total, tip=0)
     end
     oldest_customer
   end
- 
+ end 
 end
   
