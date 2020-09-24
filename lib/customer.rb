@@ -43,6 +43,7 @@ class Customer
         oldest_customer = customer
       end
     end
+    
     oldest_customer
   end
  
