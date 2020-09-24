@@ -32,7 +32,5 @@ def waiters
   end
 end
 
-end
- 
-end
+
   
